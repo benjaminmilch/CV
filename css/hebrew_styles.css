@@ -78,11 +78,6 @@ label {
   max-width: 10em;
 }
 
-/************************ TAG SELECTORS ************************/
-.standard_text {
-  font-size: 20px;
-}
-
 /************************ ID SELECTORS ************************/
 
 #eso:hover {
@@ -93,3 +88,7 @@ label {
   opacity: 0.5;
 }
 
+/************************ TAG SELECTORS ************************/
+.standard_text {
+  font-size: 20px;
+}
