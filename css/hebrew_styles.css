@@ -1,0 +1,84 @@
+/************************ TAG SELECTORS ************************/
+
+body {
+  background-color: #F3F9FB;
+}
+
+hr {
+  border-color: #87C0CD;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 5%;
+}
+
+h1 {
+  color: #113F67;
+  text-align: right;
+  font-size: 38px;
+}
+
+h2 {
+  color: #113F67;
+  text-align: right;
+  font-size: 32px;
+}
+
+h3 {
+  color: #113F67;
+  text-align: right;
+  font-size: 28px;
+}
+
+strong {
+  color: #226597;
+  text-align: right;
+}
+
+p {
+  text-align: right;
+}
+
+th {
+  color: #226597;
+  text-align: center;
+}
+
+td {
+  text-align: right;
+  direction: rtl;
+}
+
+ul {
+  margin-right: 20px;
+}
+
+li {
+  text-align: right;
+  direction: rtl;
+  margin-right: 40px;
+}
+
+em {
+  text-align: right;
+}
+
+table {
+  margin-left: auto;
+  direction: rtl;
+}
+
+form {
+  direction: rtl;
+}
+
+label {
+  direction: rtl;
+  display: inline-block;
+  width: 10em;
+  max-width: 10em;
+}
+
+/************************ TAG SELECTORS ************************/
+.standard_text {
+  font-size: 20px;
+}
